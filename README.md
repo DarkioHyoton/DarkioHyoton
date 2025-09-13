@@ -53,7 +53,7 @@ Mi objetivo es **fortalecer la seguridad, escalabilidad y disponibilidad** de ca
 * **TRM Systems - VitalSuite – DevOps / Infraestructura & Cibersguridad (2025 - actual):**   
   Infraestructura en la nube para plataforma médica. Automatización con **Docker + CI/CD**, políticas de seguridad ISO/NIST, protección de datos sensibles.  
 
-* **NIMVER – Monitoreo de Plantas de Agua - Infrasestructura, Ciberseguridad & Gestion del Proyecto (2024 - 2025):**  
+* **NIMVER – Monitoreo de Plantas de Agua - Infraestructura, Ciberseguridad & Gestion del Proyecto (2024 - 2025):**  
   Diseño y despliegue de infraestructura cloud para supervisión remota, con **alta disponibilidad y ciberseguridad integrada**.  
 
 ---
