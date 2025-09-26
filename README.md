@@ -1,7 +1,7 @@
 # ✌️ Hi! I'm Darkio Hyoton 🛸  
 *(Cybersecurity Specialist | Systems & Infrastructure Engineer | DevOps)*
 
-![Description](https://media1.tenor.com/m/i7q56mxOB8UAAAAd/cinderella-gray-uma-musume.gif)
+![Description](https://media.tenor.com/rSDt2MyelfEAAAAM/manhattan-cafe-uma-musume.gif)
 
 I’m a **Systems Engineer and Cybersecurity Specialist** with experience in:  
 🔹 **Pentesting & Security Audits** (web apps, infrastructure, and mobile).  
