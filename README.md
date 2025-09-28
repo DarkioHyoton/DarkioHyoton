@@ -23,7 +23,7 @@ My goal is to **strengthen security, scalability, and availability** of every te
 | 💻 TRM Systems                  | 🏥VitalSuite   | 🔹 Freelance | SaaS focused on the medical field, adaptable and secure. |
 | 🎨 Pulssence                    | 📄 CV-Digital   | 🔸 Personal   | Creation of CV-format web pages.                     |
 | 💾 Frikilinux                   | 🎬 Video Converter | 🔸 Personal   | Video conversion platform.                            |
-| 🤖 Tesla Ingeniería en Movimiento |🌐 S7-Tesla    | 🔺 INF / Dev-OPS Service | Service management system.         |
+| 🤖 Tesla Ingeniería en Movimiento |🌐 S7-Tesla    | 🔺 INF / DevOps Service | Service management system.         |
 
 </div>
 
