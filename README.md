@@ -13,6 +13,20 @@ My goal is to **strengthen security, scalability, and availability** of every te
 
 ---
 
+<h2>🚧 Current Projects</h2>
+
+<div align="center">
+
+| Organization                   | Project       | Type         | Description                                           |
+|--------------------------------|--------------|-------------|-----------------------------------------------------|
+| 🌊 NIMVER                       | Metabase     | 🔹 Freelancing | Water purification plant monitoring system.          |
+| 🏥 TRM Systems                  | VitalSuite   | 🔹 Freelancing | SaaS focused on the medical field, adaptable and secure. |
+| 📄 Pulssence                    | CV-Digital   | 🔸 Personal   | Creation of CV-format web pages.                     |
+| 🎬 Frikilinux                   | VideoConverter | 🔸 Personal   | Video conversion platform.                            |
+| 🛠️ Tesla Ingeniería en Movimiento | S7-Tesla    | 🛠️ INF Service | Service management system.         |
+
+</div>
+
 <h2>🛠️ Skills & Technologies</h2>
 
 <div align= "center">
@@ -46,16 +60,6 @@ My goal is to **strengthen security, scalability, and availability** of every te
   - Managed **Linux clusters** and provided advanced technical support.  
   - Implemented **Rocks Cluster** for scientific simulations.  
   - Recognized for improving team **operational efficiency**.  
-
----
-
-<h2>🚀 Featured Projects</h2>
-
-* **TRM Systems - VitalSuite – DevOps / Infrastructure & Cybersecurity (2025 - Present):**  
-  Cloud infrastructure for a medical platform. Automation with **Docker + CI/CD**, ISO/NIST security policies, and sensitive data protection.  
-
-* **NIMVER – Water Plant Monitoring – Infrastructure, Cybersecurity & Project Management (2024 - 2025):**  
-  Designed and deployed cloud infrastructure for remote supervision, with **high availability and integrated cybersecurity**.  
 
 ---
 
